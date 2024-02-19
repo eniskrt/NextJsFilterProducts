@@ -1,0 +1,21 @@
+.price-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+
+    .price{
+        background-color: transparent;
+        border: 1px solid black;
+        outline: none;
+        border-radius: 50px;
+        height: 35px;
+        padding-left: 1rem;
+    }
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

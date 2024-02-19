@@ -1,0 +1,296 @@
+[
+      {
+        "id": 1,
+        "ad": "Akilli Telefon",
+        "marka": "TechGenius",
+        "model": "TG-2000",
+        "renk": ["Siyah", "Beyaz"],
+        "ekran_boyutu": "6.5 inc",
+        "cozunurluk": "1080x2340 piksel",
+        "islemci": "Snapdragon 888",
+        "bellek": "8 GB RAM",
+        "depolama": "128 GB",
+        "batarya_kapasitesi": "5000 mAh",
+        "price": 999
+      },
+      {
+        "id": 2,
+        "ad": "Laptop",
+        "marka": "TechMaster",
+        "model": "TMX-1000",
+        "renk": ["Gumus", "Siyah"],
+        "ekran_boyutu": "15.6 inc",
+        "cozunurluk": "1920x1080 piksel",
+        "islemci": "Intel Core i7",
+        "bellek": "16 GB RAM",
+        "depolama": "512 GB SSD",
+        "price": 1299
+      },
+      {
+        "id": 3,
+        "ad": "Kulaklik",
+        "marka": "SoundStream",
+        "model": "SS-200",
+        "renk": ["Siyah", "Beyaz"],
+        "pil_suresi": "6 saat",
+        "baglanti": ["Bluetooth 5.2"],
+        "price": 79
+      },
+      {
+        "id": 4,
+        "ad": "Tablet",
+        "marka": "PadTech",
+        "model": "PT-500",
+        "renk": ["Siyah"],
+        "ekran_boyutu": "10 inc",
+        "cozunurluk": "1920x1200 piksel",
+        "islemci": "Octa-core",
+        "bellek": "4 GB RAM",
+        "depolama": "64 GB",
+        "price": 349
+      },
+      {
+        "id": 5,
+        "ad": "Akilli Saat",
+        "marka": "SmartWrist",
+        "model": "SW-500",
+        "renk": ["Siyah", "Beyaz"],
+        "ekran_boyutu": "1.3 inc",
+        "baglanti": ["Bluetooth 5.0"],
+        "pil_suresi": "3 gun",
+        "price": 149
+      },
+      {
+        "id": 6,
+        "ad": "Kamera",
+        "marka": "CineTech",
+        "model": "CT-100",
+        "renk": ["Siyah"],
+        "cozunurluk": "24 MP",
+        "video_kapasitesi": "4K",
+        "price": 399
+      },
+      {
+        "id": 7,
+        "ad": "Kablosuz Hoparlör",
+        "marka": "SoundWave",
+        "model": "SW-300",
+        "renk": ["Siyah", "Mavi"],
+        "pil_suresi": "8 saat",
+        "baglanti": ["Bluetooth 4.2"],
+        "price": 59
+      },
+      {
+        "id": 8,
+        "ad": "Dizustu Mouse",
+        "marka": "ClickTech",
+        "model": "CTM-50",
+        "renk": ["Siyah"],
+        "baglanti": ["USB"],
+        "price": 29
+      },
+      {
+        "id": 9,
+        "ad": "Bluetooth Oto Kit",
+        "marka": "AutoTech",
+        "model": "AT-200",
+        "baglanti": ["Bluetooth 5.0"],
+        "renk": ["Siyah"],
+        "price": 49
+      },
+      {
+        "id": 10,
+        "ad": "Harici Tasinabilir SSD",
+        "marka": "SpeedyDrive",
+        "model": "SD-500",
+        "kapasite": "1 TB",
+        "price": 199
+      },
+      {
+        "id": 11,
+        "ad": "Kablosuz sarj Cihazi",
+        "marka": "PowerUp",
+        "model": "PU-100",
+        "renk": ["Beyaz"],
+        "uyumlu_cihazlar": ["Akilli Telefonlar", "Akilli Saatler"],
+        "price": 39
+      },
+      {
+        "id": 12,
+        "ad": "Akilli Termostat",
+        "marka": "ClimateControl",
+        "model": "CC-300",
+        "renk": ["Beyaz"],
+        "uyumlu_cihazlar": ["HVAC Sistemleri"],
+        "baglanti": ["Wi-Fi"],
+        "price": 129
+      },
+      {
+        "id": 13,
+        "ad": "Akilli Ampul",
+        "marka": "BrightLight",
+        "model": "BL-200",
+        "renk": ["Beyaz"],
+        "guc_tuketimi": "9W",
+        "baglanti": ["Wi-Fi"],
+        "price": 19
+      },
+      {
+        "id": 14,
+        "ad": "Robot Supurge",
+        "marka": "CleanBot",
+        "model": "CB-1000",
+        "renk": ["Beyaz"],
+        "pil_suresi": "2 saat",
+        "baglanti": ["Wi-Fi"],
+        "price": 299
+      },
+      {
+        "id": 15,
+        "ad": "Bluetooth Klavye",
+        "marka": "TypeMaster",
+        "model": "TMK-150",
+        "renk": ["Siyah"],
+        "baglanti": ["Bluetooth 5.1"],
+        "price": 49
+      },
+      {
+        "id": 16,
+        "ad": "Göruntulu Kapi Zili",
+        "marka": "SecureView",
+        "model": "SV-300",
+        "renk": ["Gumus"],
+        "baglanti": ["Wi-Fi"],
+        "price": 89
+      },
+      {
+        "id": 17,
+        "ad": "Akilli Pil sarj Cihazi",
+        "marka": "ChargeTech",
+        "model": "CT-500",
+        "renk": ["Siyah"],
+        "uyumlu_piller": ["AA", "AAA", "C", "D", "9V"],
+        "price": 24
+      },
+      {
+        "id": 18,
+        "ad": "Hizli USB sarj Adaptöru",
+        "marka": "SpeedCharge",
+        "model": "SC-100",
+        "renk": ["Beyaz"],
+        "baglanti": ["USB-C"],
+        "price": 19
+      },
+      {
+        "id": 19,
+        "ad": "Yazici",
+        "marka": "PrintPro",
+        "model": "PP-200",
+        "renk": ["Beyaz"],
+        "baglanti": ["USB"],
+        "price": 149
+      },
+      {
+        "id": 20,
+        "ad": "Akilli Tarti",
+        "marka": "SmartScale",
+        "model": "SS-100",
+        "renk": ["Siyah"],
+        "baglanti": ["Bluetooth 4.0"],
+        "price": 39
+      },
+      {
+        "id": 21,
+        "ad": "USB Bellek",
+        "marka": "DataDrive",
+        "model": "DD-64",
+        "kapasite": "64 GB",
+        "price": 29
+      },
+      {
+        "id": 22,
+        "ad": "Akilli Kilit",
+        "marka": "SecureLock",
+        "model": "SL-150",
+        "renk": ["Gumus"],
+        "uyumlu_kapilar": ["Ahsap", "Metal"],
+        "baglanti": ["Bluetooth"],
+        "price": 69
+      },
+      {
+        "id": 23,
+        "ad": "Kablosuz Fare",
+        "marka": "WirelessClick",
+        "model": "WC-50",
+        "renk": ["Siyah"],
+        "baglanti": ["USB Dongle"],
+        "price": 19
+      },
+      {
+        "id": 24,
+        "ad": "Yedek Akilli Telefon Pil",
+        "marka": "PowerBackup",
+        "model": "PB-50",
+        "uyumlu_modeller": ["iPhone 12", "Samsung Galaxy S20"],
+        "kapasite": "5000 mAh",
+        "price": 49
+      },
+      {
+        "id": 25,
+        "ad": "Bluetooth Stereo Kulaklik",
+        "marka": "SoundBeats",
+        "model": "SB-300",
+        "renk": ["Siyah"],
+        "pil_suresi": "10 saat",
+        "price": 59
+      },
+      {
+        "id": 26,
+        "ad": "E-kitap Okuyucu",
+        "marka": "BookMaster",
+        "model": "BM-200",
+        "renk": ["Beyaz"],
+        "ekran_boyutu": "6 inc",
+        "cozunurluk": "300 ppi",
+        "price": 89
+      },
+      {
+        "id": 27,
+        "ad": "Akilli Ev Kamera",
+        "marka": "HomeWatch",
+        "model": "HW-100",
+        "renk": ["Beyaz"],
+        "baglanti": ["Wi-Fi"],
+        "cozunurluk": "1080p",
+        "price": 129
+      },
+      {
+        "id": 28,
+        "ad": "Bluetooth Oyuncu Kulakliği",
+        "marka": "GamerGear",
+        "model": "GG-500",
+        "renk": ["Siyah"],
+        "pil_suresi": "12 saat",
+        "price": 79
+      },
+      {
+        "id": 29,
+        "ad": "Mini Projeksiyon Cihazi",
+        "marka": "PocketView",
+        "model": "PV-50",
+        "renk": ["Siyah"],
+        "cozunurluk": "720p",
+        "price": 199
+      },
+      {
+        "id": 30,
+        "ad": "Bluetooth Hoparlör",
+        "marka": "PortableSound",
+        "model": "PS-100",
+        "renk": ["Mavi"],
+        "pil_suresi": "5 saat",
+        "price": 39
+      }
+]
+
+  

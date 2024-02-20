@@ -2,7 +2,7 @@
 import "@/helpers/style/price-style.scss";
 import data from "@/helpers/data/data.json"
 
-const PriceInput = ({ setMaxPrice, setMinPrice, setColor, color }) => {
+const PriceInput = ({ setMaxPrice, setMinPrice, setColor, color, setSorted }) => {
   const handleMax = (e) => {
     setMaxPrice(e.target.value);
   };
@@ -56,6 +56,8 @@ const PriceInput = ({ setMaxPrice, setMinPrice, setColor, color }) => {
           
         </ul>
       </div>
+      <button className="btn btn-secondary" onClick={()=>setSorted("asc")}>Asc</button>
+      <button className="btn btn-danger" onClick={()=>setSorted("desc")}>Desc</button>
     </div>
   );
 };

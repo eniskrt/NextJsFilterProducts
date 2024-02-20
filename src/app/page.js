@@ -13,15 +13,16 @@ export default function Home() {
   const [maxPrice, setMaxPrice] = useState()
   const [minPrice, setMinPrice] = useState()
   const [color, setColor] = useState("")
+  const [sorted, setSorted] = useState("")
 
   return (
     <main>
       <Spacer height="25px"/>
       <SearchBar setFiltered={setFiltered}/>
       <Spacer height="20px"/>
-      <PriceInput setMaxPrice={setMaxPrice} setMinPrice={setMinPrice} setColor={setColor} color={color}/>
+      <PriceInput setMaxPrice={setMaxPrice} setMinPrice={setMinPrice} setColor={setColor} color={color} setSorted={setSorted}/>
       <Spacer height="50px"/>
-      <ProductPage filtered={filtered} maxPrice={maxPrice} minPrice={minPrice} color={color}/>
+      <ProductPage filtered={filtered} maxPrice={maxPrice} minPrice={minPrice} color={color} sorted={sorted}/>
       <Spacer/>
     </main>
   );
